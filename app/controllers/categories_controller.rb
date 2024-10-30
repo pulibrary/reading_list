@@ -3,6 +3,4 @@ class CategoriesController < ApplicationController
     @categories = Category.all
   end
 
-  def new_categories
-  end
 end
